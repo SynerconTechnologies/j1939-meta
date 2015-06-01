@@ -106,5 +106,5 @@ mids = {
 255: 'Reserved-to be assigned'
 }
 
-def get_mid_name(mid):
+def get_by_mid(mid):
 	return mids[mid]
