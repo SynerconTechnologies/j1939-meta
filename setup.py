@@ -10,5 +10,5 @@ setup(
     author_email="patrick@forringer.com",
     url="https://github.com/SynerconTechnologies/j1939-meta",
     description="",
-    packages=['j1939'],
+    packages=['j1939','j1587'],
     use_2to3=True)
